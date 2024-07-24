@@ -1,4 +1,4 @@
-# tic_tac_toe
+# Tic-Tac-Toe
 This is my first project with c++. I know it's not perfect but i like the complexity 👇
 
 
